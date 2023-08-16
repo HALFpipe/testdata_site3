@@ -1,0 +1,6 @@
+* annex.largefiles=largerthan=1mb
+*.json annex.largefiles=nothing
+*.tsv annex.largefiles=nothing
+*.txt annex.largefiles=nothing
+CHANGES annex.largefiles=nothing
+README annex.largefiles=nothing

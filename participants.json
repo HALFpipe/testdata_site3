@@ -1,0 +1,25 @@
+{
+    "participant_id": {
+      "Description": "Participant Label (matches internal number)"
+    },
+    "sex": {
+      "Description": "Gender of the participant",
+      "Levels": {
+        "M": "male",
+        "F": "female"
+      }
+    },
+    "age": {
+      "Description": "Age of the participant at scan time",
+      "Units": "years"
+    },
+    "scan_site_id": {
+      "Description": "Location code of the scan site (multiple scanners may be used per site)",
+      "Levels": {
+        "up": "UP scan location",
+        "hmc": "HMC scan location",
+        "moss": ""
+      }
+    }
+  
+  }
